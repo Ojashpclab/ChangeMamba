@@ -1,0 +1,17 @@
+
+# Python environments and caches
+.venv/
+venv/
+.venv_wsl/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large model checkpoints
+*.pth
+
+# Downloaded installers
+*.deb
+
+# Environment secrets
+.env
